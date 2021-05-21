@@ -1,0 +1,13 @@
+   if 5<10 :
+  
+
+  ...   print('5 is smaller than 10')
+
+  ...   print('correct condition')
+  ...
+
+
+
+    #Output :
+     5 is smaller than 10
+     Correct condition 
